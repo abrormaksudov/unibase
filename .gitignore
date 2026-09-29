@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.venv/
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+.pyrefly/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
