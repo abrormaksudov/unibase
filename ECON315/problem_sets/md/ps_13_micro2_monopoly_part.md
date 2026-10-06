@@ -2,7 +2,7 @@
 
 Econ 211 · Microeconomics II · Spring 2026 · Instructor: Xiaoye Liao
 
-<!-- source: ../ps_13_micro2_monopoly_part.pdf (4 pages) -->
+<!-- source: ../pdf/ps_13_micro2_monopoly_part.pdf (4 pages) -->
 
 <!-- page 1/4 -->
 

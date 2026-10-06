@@ -2,7 +2,7 @@
 
 Econ 315 · Game Theory for Economics · Fall 2026 · Instructor: Xiaoye Liao
 
-<!-- source: ../ps1.pdf (4 pages) -->
+<!-- source: ../pdf/ps1.pdf (4 pages) -->
 
 <!-- page 1/4 -->
 
