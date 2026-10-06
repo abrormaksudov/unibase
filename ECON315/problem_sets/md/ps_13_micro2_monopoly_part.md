@@ -12,8 +12,6 @@ The demand curve of a good is the downward sloping segment shown in Figure 1.
 
 ![Figure 1: demand segment from (Q, p) = (0, 6) to (8, 0) on a unit grid, Q from 0 to 8, p from 0 to 6](assets/ps_13_micro2_monopoly_part/figure-1.png)
 
-Figure 1
-
 - (a) When is the demand elastic/inelastic/unit-elastic?
 - (b) Draw in the figure the demand curve faced by a competitive firm on the market, provided that the competitive equilibrium price on the market is $p^c = 3$. How many units of the good will be transacted in the competitive equilibrium?
 - (c) Draw the marginal revenue curve for a monopolist on this market which adopts a linear pricing strategy.
@@ -57,8 +55,6 @@ $$
 where $(Q_i, P_i)$ is the plan designed for consumer $i$, $Q_i$ being the quantity sold to the consumer and $P_i$ being the total price the consumer will be charged, $i \in \{A, B\}$.
 
 ![Figure 2: two demand segments on a unit grid, D_A from (Q, p) = (0, 6) to (8, 0) and D_B from (0, 4) to (4, 0)](assets/ps_13_micro2_monopoly_part/figure-2.png)
-
-Figure 2
 
 - (a) Table 1 specifies two menus of plans. For each of them, determine whether it is individually rational (i.e., for each consumer, choosing the plan designed for him is no worse than not choosing any of the plans).
 - (b) For each of the two menus as specifed in Table 1, determine whether it is incentive compatible (i.e., for each consumer, whether it is better to choose the plan designed for him rather than the other one).
